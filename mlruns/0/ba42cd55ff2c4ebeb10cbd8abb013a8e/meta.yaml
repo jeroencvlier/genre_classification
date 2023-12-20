@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jeroenvanlier/Projects/udacity_mlops/genre_classification/mlruns/0/ba42cd55ff2c4ebeb10cbd8abb013a8e/artifacts
+end_time: 1703000975363
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba42cd55ff2c4ebeb10cbd8abb013a8e
+run_name: auspicious-hawk-966
+run_uuid: ba42cd55ff2c4ebeb10cbd8abb013a8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703000877447
+status: 3
+tags: []
+user_id: jeroenvanlier

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jeroenvanlier/Projects/udacity_mlops/genre_classification/mlruns/0/91cd703a17a74e18bd4da5574caddc0c/artifacts
+end_time: 1703000141518
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 91cd703a17a74e18bd4da5574caddc0c
+run_name: bemused-ape-461
+run_uuid: 91cd703a17a74e18bd4da5574caddc0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703000078263
+status: 4
+tags: []
+user_id: jeroenvanlier

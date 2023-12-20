@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jeroenvanlier/Projects/udacity_mlops/genre_classification/mlruns/0/57af51ec2a9c43c2bf7d52173711c9f2/artifacts
+end_time: 1703002694081
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 57af51ec2a9c43c2bf7d52173711c9f2
+run_name: gentle-stoat-18
+run_uuid: 57af51ec2a9c43c2bf7d52173711c9f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703002675142
+status: 3
+tags: []
+user_id: jeroenvanlier

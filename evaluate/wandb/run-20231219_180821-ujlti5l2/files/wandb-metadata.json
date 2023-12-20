@@ -1,0 +1,42 @@
+{
+    "os": "macOS-14.2-arm64-arm-64bit",
+    "python": "3.8.18",
+    "heartbeatAt": "2023-12-19T16:08:22.405516",
+    "startedAt": "2023-12-19T16:08:21.457025",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--model_export",
+        "rf:latest",
+        "--test_data",
+        "data_test.csv:latest"
+    ],
+    "state": "running",
+    "program": "run.py",
+    "codePathLocal": "run.py",
+    "codePath": "evaluate/run.py",
+    "git": {
+        "remote": "git@github.com:jeroencvlier/genre_classification.git",
+        "commit": "c155f19db64abfa694489178b2e6b0ab48a17696"
+    },
+    "email": "jeroen.vanlier@flash.co.za",
+    "root": "/Users/jeroenvanlier/Projects/udacity_mlops/genre_classification",
+    "host": "FlashJeroensMBP.Dlink",
+    "username": "jeroenvanlier",
+    "executable": "/Users/jeroenvanlier/miniconda3/envs/mlflow-b2e23ac57e054a68064e8eb2e1ba35860b74b4c1/bin/python",
+    "cpu_count": 10,
+    "cpu_count_logical": 10,
+    "disk": {
+        "/": {
+            "total": 460.4317207336426,
+            "used": 9.430984497070312
+        }
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 32.0
+    }
+}

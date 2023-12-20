@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jeroenvanlier/Projects/udacity_mlops/genre_classification/mlruns/0/22763d978e194c579fc4e6987c70c5cd/artifacts
+end_time: 1703003080199
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 22763d978e194c579fc4e6987c70c5cd
+run_name: adaptable-rook-509
+run_uuid: 22763d978e194c579fc4e6987c70c5cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703003053305
+status: 3
+tags: []
+user_id: jeroenvanlier

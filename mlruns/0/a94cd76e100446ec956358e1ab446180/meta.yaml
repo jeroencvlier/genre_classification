@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jeroenvanlier/Projects/udacity_mlops/genre_classification/mlruns/0/a94cd76e100446ec956358e1ab446180/artifacts
+end_time: 1703000573910
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a94cd76e100446ec956358e1ab446180
+run_name: upbeat-hare-318
+run_uuid: a94cd76e100446ec956358e1ab446180
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703000557133
+status: 3
+tags: []
+user_id: jeroenvanlier

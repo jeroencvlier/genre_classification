@@ -1,0 +1,46 @@
+{
+    "os": "macOS-14.2-arm64-arm-64bit",
+    "python": "3.8.18",
+    "heartbeatAt": "2023-12-19T16:19:08.080514",
+    "startedAt": "2023-12-19T16:19:07.011930",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--file_url",
+        "https://github.com/udacity/nd0821-c2-build-model-workflow-exercises/blob/master/lesson-2-data-exploration-and-preparation/exercises/exercise_4/starter/genres_mod.parquet?raw=true",
+        "--artifact_name",
+        "raw_data.parquet",
+        "--artifact_type",
+        "raw_data",
+        "--artifact_description",
+        "Data as downloaded"
+    ],
+    "state": "running",
+    "program": "download_data.py",
+    "codePathLocal": "download_data.py",
+    "codePath": "download/download_data.py",
+    "git": {
+        "remote": "git@github.com:jeroencvlier/genre_classification.git",
+        "commit": "c155f19db64abfa694489178b2e6b0ab48a17696"
+    },
+    "email": "jeroen.vanlier@flash.co.za",
+    "root": "/Users/jeroenvanlier/Projects/udacity_mlops/genre_classification",
+    "host": "FlashJeroensMBP.Dlink",
+    "username": "jeroenvanlier",
+    "executable": "/Users/jeroenvanlier/miniconda3/envs/mlflow-998babb8541ba75bf56d1609cbdd9c59666b021c/bin/python",
+    "cpu_count": 10,
+    "cpu_count_logical": 10,
+    "disk": {
+        "/": {
+            "total": 460.4317207336426,
+            "used": 9.430984497070312
+        }
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 32.0
+    }
+}

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jeroenvanlier/Projects/udacity_mlops/genre_classification/mlruns/0/c6644f2d7fdf4eacac40a166e3d5ba5d/artifacts
+end_time: 1703001564731
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c6644f2d7fdf4eacac40a166e3d5ba5d
+run_name: chill-elk-71
+run_uuid: c6644f2d7fdf4eacac40a166e3d5ba5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703001546516
+status: 3
+tags: []
+user_id: jeroenvanlier

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jeroenvanlier/Projects/udacity_mlops/genre_classification/mlruns/0/be677635f2df42ab9472247330c3dcac/artifacts
+end_time: 1703001493510
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be677635f2df42ab9472247330c3dcac
+run_name: nebulous-bass-503
+run_uuid: be677635f2df42ab9472247330c3dcac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703001476573
+status: 3
+tags: []
+user_id: jeroenvanlier

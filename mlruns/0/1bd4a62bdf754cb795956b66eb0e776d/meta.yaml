@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jeroenvanlier/Projects/udacity_mlops/genre_classification/mlruns/0/1bd4a62bdf754cb795956b66eb0e776d/artifacts
+end_time: 1703003134352
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1bd4a62bdf754cb795956b66eb0e776d
+run_name: intrigued-tern-168
+run_uuid: 1bd4a62bdf754cb795956b66eb0e776d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703003004835
+status: 3
+tags: []
+user_id: jeroenvanlier

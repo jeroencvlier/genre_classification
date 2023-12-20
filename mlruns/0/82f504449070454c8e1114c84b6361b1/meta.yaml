@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jeroenvanlier/Projects/udacity_mlops/genre_classification/mlruns/0/82f504449070454c8e1114c84b6361b1/artifacts
+end_time: 1703002125511
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 82f504449070454c8e1114c84b6361b1
+run_name: angry-slug-40
+run_uuid: 82f504449070454c8e1114c84b6361b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703002096014
+status: 3
+tags: []
+user_id: jeroenvanlier

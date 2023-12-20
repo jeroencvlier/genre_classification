@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jeroenvanlier/Projects/udacity_mlops/genre_classification/mlruns/0/ad805c1eefda48a7b8b877462ddb9ff0/artifacts
+end_time: 1703002625328
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ad805c1eefda48a7b8b877462ddb9ff0
+run_name: capable-sloth-673
+run_uuid: ad805c1eefda48a7b8b877462ddb9ff0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703002610596
+status: 3
+tags: []
+user_id: jeroenvanlier

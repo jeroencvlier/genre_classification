@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jeroenvanlier/Projects/udacity_mlops/genre_classification/mlruns/0/f55eeed9841a4f7b919674eddbb5eb8c/artifacts
+end_time: 1703002794051
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f55eeed9841a4f7b919674eddbb5eb8c
+run_name: gregarious-ram-781
+run_uuid: f55eeed9841a4f7b919674eddbb5eb8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703002768027
+status: 3
+tags: []
+user_id: jeroenvanlier

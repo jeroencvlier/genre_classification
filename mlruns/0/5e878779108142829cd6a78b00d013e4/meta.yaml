@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jeroenvanlier/Projects/udacity_mlops/genre_classification/mlruns/0/5e878779108142829cd6a78b00d013e4/artifacts
+end_time: 1703002640369
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5e878779108142829cd6a78b00d013e4
+run_name: exultant-dog-117
+run_uuid: 5e878779108142829cd6a78b00d013e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703002625349
+status: 3
+tags: []
+user_id: jeroenvanlier

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jeroenvanlier/Projects/udacity_mlops/genre_classification/mlruns/0/d5b65b4e90774dbf92534d2d8deb4b9c/artifacts
+end_time: 1703002675125
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d5b65b4e90774dbf92534d2d8deb4b9c
+run_name: welcoming-ape-595
+run_uuid: d5b65b4e90774dbf92534d2d8deb4b9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703002640392
+status: 3
+tags: []
+user_id: jeroenvanlier

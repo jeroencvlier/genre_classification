@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jeroenvanlier/Projects/udacity_mlops/genre_classification/mlruns/0/9d0decd95347495d8862633fb6ae4526/artifacts
+end_time: 1703000546107
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9d0decd95347495d8862633fb6ae4526
+run_name: fun-sponge-114
+run_uuid: 9d0decd95347495d8862633fb6ae4526
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703000501031
+status: 3
+tags: []
+user_id: jeroenvanlier

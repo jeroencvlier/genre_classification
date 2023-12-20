@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jeroenvanlier/Projects/udacity_mlops/genre_classification/mlruns/0/04796571203d451abecbcf68526e2c76/artifacts
+end_time: 1703002440057
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 04796571203d451abecbcf68526e2c76
+run_name: powerful-quail-200
+run_uuid: 04796571203d451abecbcf68526e2c76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703002438441
+status: 4
+tags: []
+user_id: jeroenvanlier

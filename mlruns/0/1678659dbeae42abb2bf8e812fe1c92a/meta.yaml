@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jeroenvanlier/Projects/udacity_mlops/genre_classification/mlruns/0/1678659dbeae42abb2bf8e812fe1c92a/artifacts
+end_time: 1703001546495
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1678659dbeae42abb2bf8e812fe1c92a
+run_name: funny-ram-312
+run_uuid: 1678659dbeae42abb2bf8e812fe1c92a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703001493529
+status: 3
+tags: []
+user_id: jeroenvanlier

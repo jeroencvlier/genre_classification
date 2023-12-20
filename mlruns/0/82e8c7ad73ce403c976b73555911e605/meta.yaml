@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jeroenvanlier/Projects/udacity_mlops/genre_classification/mlruns/0/82e8c7ad73ce403c976b73555911e605/artifacts
+end_time: 1703002933868
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 82e8c7ad73ce403c976b73555911e605
+run_name: suave-fawn-234
+run_uuid: 82e8c7ad73ce403c976b73555911e605
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703002919378
+status: 4
+tags: []
+user_id: jeroenvanlier

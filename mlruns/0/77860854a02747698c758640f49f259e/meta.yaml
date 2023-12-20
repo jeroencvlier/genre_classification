@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jeroenvanlier/Projects/udacity_mlops/genre_classification/mlruns/0/77860854a02747698c758640f49f259e/artifacts
+end_time: 1703002564838
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 77860854a02747698c758640f49f259e
+run_name: handsome-dog-23
+run_uuid: 77860854a02747698c758640f49f259e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703002563353
+status: 4
+tags: []
+user_id: jeroenvanlier

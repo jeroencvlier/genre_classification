@@ -1,0 +1,50 @@
+{
+    "os": "macOS-14.2-arm64-arm-64bit",
+    "python": "3.8.18",
+    "heartbeatAt": "2023-12-19T16:24:44.222135",
+    "startedAt": "2023-12-19T16:24:43.284522",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--train_data",
+        "data_train.csv:latest",
+        "--model_config",
+        "/Users/jeroenvanlier/Projects/udacity_mlops/genre_classification/outputs/2023-12-19/18-23-26/random_forest_config.yml",
+        "--export_artifact",
+        "rf",
+        "--random_seed",
+        "42",
+        "--val_size",
+        "0.3",
+        "--stratify",
+        "genre"
+    ],
+    "state": "running",
+    "program": "run.py",
+    "codePathLocal": "run.py",
+    "codePath": "random_forest/run.py",
+    "git": {
+        "remote": "git@github.com:jeroencvlier/genre_classification.git",
+        "commit": "c155f19db64abfa694489178b2e6b0ab48a17696"
+    },
+    "email": "jeroen.vanlier@flash.co.za",
+    "root": "/Users/jeroenvanlier/Projects/udacity_mlops/genre_classification",
+    "host": "FlashJeroensMBP.Dlink",
+    "username": "jeroenvanlier",
+    "executable": "/Users/jeroenvanlier/miniconda3/envs/mlflow-d3a14caf4e637e096888fbe77e7b8034853aa806/bin/python",
+    "cpu_count": 10,
+    "cpu_count_logical": 10,
+    "disk": {
+        "/": {
+            "total": 460.4317207336426,
+            "used": 9.430984497070312
+        }
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 32.0
+    }
+}

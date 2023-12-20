@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jeroenvanlier/Projects/udacity_mlops/genre_classification/mlruns/0/4bd3efb453154e70a03cd0607336147e/artifacts
+end_time: 1703002919359
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4bd3efb453154e70a03cd0607336147e
+run_name: enthused-zebra-796
+run_uuid: 4bd3efb453154e70a03cd0607336147e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703002903302
+status: 3
+tags: []
+user_id: jeroenvanlier

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jeroenvanlier/Projects/udacity_mlops/genre_classification/mlruns/0/83eeb573d715413b95180453686b5eab/artifacts
+end_time: 1703000649593
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 83eeb573d715413b95180453686b5eab
+run_name: persistent-turtle-46
+run_uuid: 83eeb573d715413b95180453686b5eab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703000555588
+status: 4
+tags: []
+user_id: jeroenvanlier

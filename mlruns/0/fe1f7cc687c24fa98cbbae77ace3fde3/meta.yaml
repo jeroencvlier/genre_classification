@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jeroenvanlier/Projects/udacity_mlops/genre_classification/mlruns/0/fe1f7cc687c24fa98cbbae77ace3fde3/artifacts
+end_time: 1703003038891
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe1f7cc687c24fa98cbbae77ace3fde3
+run_name: funny-kit-268
+run_uuid: fe1f7cc687c24fa98cbbae77ace3fde3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703003023826
+status: 3
+tags: []
+user_id: jeroenvanlier

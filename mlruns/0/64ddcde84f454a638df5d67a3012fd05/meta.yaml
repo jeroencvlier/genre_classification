@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jeroenvanlier/Projects/udacity_mlops/genre_classification/mlruns/0/64ddcde84f454a638df5d67a3012fd05/artifacts
+end_time: 1703002147210
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 64ddcde84f454a638df5d67a3012fd05
+run_name: smiling-newt-157
+run_uuid: 64ddcde84f454a638df5d67a3012fd05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703002145607
+status: 4
+tags: []
+user_id: jeroenvanlier

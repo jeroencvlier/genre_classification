@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jeroenvanlier/Projects/udacity_mlops/genre_classification/mlruns/0/64c5825621674609afb4155599d62264/artifacts
+end_time: 1703002610577
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 64c5825621674609afb4155599d62264
+run_name: inquisitive-owl-567
+run_uuid: 64c5825621674609afb4155599d62264
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703002595250
+status: 3
+tags: []
+user_id: jeroenvanlier

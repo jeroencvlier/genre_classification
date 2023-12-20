@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jeroenvanlier/Projects/udacity_mlops/genre_classification/mlruns/0/ad82575213a244e0a892b03b7a297052/artifacts
+end_time: 1703002933997
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ad82575213a244e0a892b03b7a297052
+run_name: aged-hare-184
+run_uuid: ad82575213a244e0a892b03b7a297052
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703002883892
+status: 4
+tags: []
+user_id: jeroenvanlier

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jeroenvanlier/Projects/udacity_mlops/genre_classification/mlruns/0/6fc517056afd472ea0fc2521263909c5/artifacts
+end_time: 1703001672157
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6fc517056afd472ea0fc2521263909c5
+run_name: melodic-fox-277
+run_uuid: 6fc517056afd472ea0fc2521263909c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703001670634
+status: 4
+tags: []
+user_id: jeroenvanlier

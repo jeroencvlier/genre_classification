@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jeroenvanlier/Projects/udacity_mlops/genre_classification/mlruns/0/5ba67126ea9847caaa3dc717e48d4fd4/artifacts
+end_time: 1703000811102
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ba67126ea9847caaa3dc717e48d4fd4
+run_name: calm-bee-159
+run_uuid: 5ba67126ea9847caaa3dc717e48d4fd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703000795575
+status: 4
+tags: []
+user_id: jeroenvanlier

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jeroenvanlier/Projects/udacity_mlops/genre_classification/mlruns/0/cb4a634e99544e059c8f8d35023db9a2/artifacts
+end_time: 1703001077456
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb4a634e99544e059c8f8d35023db9a2
+run_name: marvelous-hen-692
+run_uuid: cb4a634e99544e059c8f8d35023db9a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703001022204
+status: 4
+tags: []
+user_id: jeroenvanlier

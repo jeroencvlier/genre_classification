@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jeroenvanlier/Projects/udacity_mlops/genre_classification/mlruns/0/06562998967740c5a0eb4aa994d51177/artifacts
+end_time: 1703001564812
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 06562998967740c5a0eb4aa994d51177
+run_name: adorable-dog-18
+run_uuid: 06562998967740c5a0eb4aa994d51177
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703001475087
+status: 3
+tags: []
+user_id: jeroenvanlier

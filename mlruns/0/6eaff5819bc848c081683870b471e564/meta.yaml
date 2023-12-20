@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jeroenvanlier/Projects/udacity_mlops/genre_classification/mlruns/0/6eaff5819bc848c081683870b471e564/artifacts
+end_time: 1703002808685
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6eaff5819bc848c081683870b471e564
+run_name: bedecked-snake-976
+run_uuid: 6eaff5819bc848c081683870b471e564
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703002794070
+status: 4
+tags: []
+user_id: jeroenvanlier

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jeroenvanlier/Projects/udacity_mlops/genre_classification/mlruns/0/d7f45a33aa46490cb07c37dffb3483c0/artifacts
+end_time: 1703002595232
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d7f45a33aa46490cb07c37dffb3483c0
+run_name: casual-wasp-942
+run_uuid: d7f45a33aa46490cb07c37dffb3483c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703002579556
+status: 3
+tags: []
+user_id: jeroenvanlier
